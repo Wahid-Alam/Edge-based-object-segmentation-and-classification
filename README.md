@@ -1,6 +1,6 @@
 # Edge-based-object-segmentation-and-classification
 ## project description:
-In this group project, we implement segmentation and classification in two stages. In part 1, we write the script to segment and classify washers for a given image by the instructor. Next, we generalize our algorithm to implement on several other images contamined with different orientation, depth and hand-written backgrounds. 
+In this group project, we implement segmentation and classification in two stages. In part 1, we write the script to segment and classify washers for a given image by the instructor. Next, we generalize our algorithm to implement on several other images contaminated with different orientation, depth and hand-written backgrounds. 
 ## Results:
 ### representative input images:
   <img src="input_images.png" width="500" title="input images">
